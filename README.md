@@ -1,13 +1,12 @@
 # Minecraft Lua Loader for 1.16.4
 
-This is a mod that is trying to implement lua embedding in Minecraft
+This is a mod that is trying to implement lua embedding in Minecraft  
 Lua can now only create new items
 
 I once wanted to implement more functions but have given up because of the large amount of engineering
 
 ## Source installation information for modders
 
--------------------------------------------
 This code follows the Minecraft Forge installation methodology. It will apply
 some small patches to the vanilla MCP source code, giving you and it access
 to some of the data and functions you need to build a successful mod.
@@ -19,8 +18,6 @@ normal code.
 Source pack installation information:
 
 ## Standalone source installation
-
--------------------------------------------
 
 See the Forge Documentation online for more detailed instructions:
 <http://mcforge.readthedocs.io/en/latest/gettingstarted/>
@@ -52,14 +49,10 @@ or the Forge Project Discord discord.gg/UvedJ9m
 
 ## Forge source installation
 
--------------------------------------------
-
 MinecraftForge ships with this code and installs it as part of the forge
 installation process, no further action is required on your part.
 
 ## LexManos' Install Video
-
--------------------------------------------
 
 <https://www.youtube.com/watch?v=8VEdtQLuLO0&feature=youtu.be>
 
