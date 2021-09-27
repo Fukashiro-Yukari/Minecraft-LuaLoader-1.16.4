@@ -5,6 +5,8 @@ Lua can now only create new items
 
 I once wanted to implement more functions but have given up because of the large amount of engineering
 
+Lua Repository: <https://github.com/NepQNeko/Minecraft-LuaLoader-LuaRepository>
+
 ## Source installation information for modders
 
 This code follows the Minecraft Forge installation methodology. It will apply
